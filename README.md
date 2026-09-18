@@ -28,7 +28,8 @@ Se necesita tener python instalado.
 Y ya se corre:
 
 ```
-python Laboratorio2.py
+python Laboratorio2.py    (Windows)
+python3 Laboratorio2.py   (Mac/Linux)
 ```
 
 ## Qué hace
