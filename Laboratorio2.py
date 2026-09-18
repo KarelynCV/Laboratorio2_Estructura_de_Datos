@@ -110,6 +110,6 @@ if __name__ == "__main__":
     print(f"Resultado -> {'VALIDA' if valida else 'INVALIDA'}")
  
     print("\nVerificacion con un dato INCORRECTO (para probar que falla):")
-    hash_hoja_falso = sha256("T3: dato alterado por un atacante")
+    hash_hoja_falso = sha256("T3: dato incorrecto")
     invalida = verificar_prueba(hash_hoja_falso, prueba, raiz_original)
     print(f"Resultado -> {'VALIDA' if invalida else 'INVALIDA'}")
