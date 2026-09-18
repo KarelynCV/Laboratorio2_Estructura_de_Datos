@@ -4,7 +4,7 @@
 
 ## Contenido del Repositorio
 
-- Código fuente en lenguaje de programación python.
+- Código fuente en lenguaje de programación python Laboratorio2.py.
 - Captura de Pantalla del Diagrama del árbol construido por el mismo código.
 - Captura de Pantalla de las verificaciones.
 - Y este README.
@@ -25,7 +25,7 @@ código y lo probé.
 
 Se necesita tener python instalado.
 
-Y ya se corre:
+Y ya se corre dependiendo del sistema que tengamos de esta manera:
 
 ```
 python Laboratorio2.py    (Windows)
