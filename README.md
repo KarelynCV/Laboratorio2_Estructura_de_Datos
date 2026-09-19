@@ -14,12 +14,13 @@
 Se usó un asistente de IA específicamente Claude para ayudar a construir el código y verificarlo.
 
 Se usó para ayudar a diseñar prácticamente la prueba de inclusión, específicamente la parte de
-generar_prueba, verificar_prueba e imprimir_diagrama.
+generar_prueba, verificar_prueba e imprimir_diagrama, y un poco en la parte del experimento.
 
-Yo construí una parte del código, específicamente la parte del principio, la de construir_arbol
-porque ya la había creado desde la clase donde lo vimos y lo construimos, y también la parte final
-del experimento, donde escribí las transacciones e imprimí los resultados, también revisé el
-código y lo probé.
+Yo una parte del código, específicamente la parte del principio, la de construir_arbol, la 
+reutilice porque ya la había creado con ayuda de la IA desde la clase donde lo vimos y lo 
+construimos, e hice gran parte del final, la del experimento, donde escribí las transacciones y lo 
+que se imprimia en los resultados, también revisé el código y lo probé y estuve activa en todo mi 
+proceso de aprendizaje junto a la IA.
 
 ## Cómo correrlo
 
